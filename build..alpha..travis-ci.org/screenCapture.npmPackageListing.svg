@@ -1,0 +1,217 @@
+<svg height="3422" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="3422" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-18 08:50:34 +0000  1102397 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 08:50:34 +0000     1601 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 08:50:34 +0000     5566 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 08:50:34 +0000   347433 bytes  dist/ReactNative.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 08:50:34 +0000     1250 bytes  dist/apis/Animated/index.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 08:50:34 +0000     2900 bytes  dist/apis/AppRegistry/ReactNativeApp.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 08:50:34 +0000     3886 bytes  dist/apis/AppRegistry/index.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 08:50:34 +0000     1285 bytes  dist/apis/AppRegistry/renderApplication.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 08:50:34 +0000     2708 bytes  dist/apis/AppState/index.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 08:50:34 +0000     3727 bytes  dist/apis/AsyncStorage/index.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 08:50:34 +0000      243 bytes  dist/apis/BackAndroid/index.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 08:50:34 +0000     1213 bytes  dist/apis/Clipboard/index.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 08:50:34 +0000     1812 bytes  dist/apis/Dimensions/index.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 08:50:34 +0000      897 bytes  dist/apis/I18nManager/index.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 08:50:34 +0000      772 bytes  dist/apis/InteractionManager/index.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-18 08:50:34 +0000      911 bytes  dist/apis/Linking/index.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-18 08:50:34 +0000     3695 bytes  dist/apis/NetInfo/index.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-18 08:50:34 +0000     5546 bytes  dist/apis/PanResponder/index.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-18 08:50:34 +0000     1529 bytes  dist/apis/PixelRatio/index.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-18 08:50:34 +0000      121 bytes  dist/apis/Platform/index.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-18 08:50:34 +0000     5272 bytes  dist/apis/StyleSheet/StyleManager.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-18 08:50:34 +0000     5213 bytes  dist/apis/StyleSheet/StyleRegistry.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-18 08:50:34 +0000     3804 bytes  dist/apis/StyleSheet/StyleSheetValidation.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-18 08:50:34 +0000      478 bytes  dist/apis/StyleSheet/createReactDOMStyle.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-18 08:50:34 +0000     3777 bytes  dist/apis/StyleSheet/expandStyle.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-18 08:50:34 +0000      980 bytes  dist/apis/StyleSheet/flattenStyle.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-18 08:50:34 +0000      997 bytes  dist/apis/StyleSheet/generateCss.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-18 08:50:34 +0000      800 bytes  dist/apis/StyleSheet/hash.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-18 08:50:34 +0000     2289 bytes  dist/apis/StyleSheet/i18nStyle.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-18 08:50:34 +0000      915 bytes  dist/apis/StyleSheet/index.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-18 08:50:34 +0000      870 bytes  dist/apis/StyleSheet/normalizeValue.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-18 08:50:34 +0000      514 bytes  dist/apis/StyleSheet/prefixInlineStyles.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-18 08:50:34 +0000      257 bytes  dist/apis/StyleSheet/registry.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-18 08:50:34 +0000     1016 bytes  dist/apis/StyleSheet/resolveBoxShadow.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-18 08:50:34 +0000      871 bytes  dist/apis/StyleSheet/resolveTextShadow.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-18 08:50:34 +0000      894 bytes  dist/apis/StyleSheet/resolveTransform.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-18 08:50:34 +0000      868 bytes  dist/apis/StyleSheet/staticCss.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-18 08:50:34 +0000     2258 bytes  dist/apis/UIManager/index.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-18 08:50:34 +0000      389 bytes  dist/apis/Vibration/index.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-18 08:50:34 +0000     4841 bytes  dist/components/ActivityIndicator/index.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-18 08:50:34 +0000     3358 bytes  dist/components/Button/index.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-18 08:50:34 +0000      156 bytes  dist/components/Image/ImageResizeMode.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-18 08:50:34 +0000     1666 bytes  dist/components/Image/ImageStylePropTypes.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-18 08:50:34 +0000     9738 bytes  dist/components/Image/index.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-18 08:50:34 +0000     7119 bytes  dist/components/ListView/ListViewDataSource.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-18 08:50:34 +0000     1381 bytes  dist/components/ListView/ListViewPropTypes.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-18 08:50:34 +0000    15752 bytes  dist/components/ListView/index.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-18 08:50:34 +0000     5062 bytes  dist/components/ProgressBar/index.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-18 08:50:34 +0000     6078 bytes  dist/components/ScrollView/ScrollViewBase.js</tspan>
+<tspan x="10" y="810"> 49.  2017-04-18 08:50:34 +0000     7877 bytes  dist/components/ScrollView/index.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-18 08:50:34 +0000     2315 bytes  dist/components/StaticContainer/index.js</tspan>
+<tspan x="10" y="842"> 51.  2017-04-18 08:50:34 +0000     2096 bytes  dist/components/StaticRenderer/index.js</tspan>
+<tspan x="10" y="858"> 52.  2017-04-18 08:50:34 +0000     7644 bytes  dist/components/Switch/index.js</tspan>
+<tspan x="10" y="874"> 53.  2017-04-18 08:50:34 +0000     1957 bytes  dist/components/Text/TextStylePropTypes.js</tspan>
+<tspan x="10" y="890"> 54.  2017-04-18 08:50:34 +0000     5171 bytes  dist/components/Text/index.js</tspan>
+<tspan x="10" y="906"> 55.  2017-04-18 08:50:34 +0000      892 bytes  dist/components/TextInput/TextInputState.js</tspan>
+<tspan x="10" y="922"> 56.  2017-04-18 08:50:34 +0000      683 bytes  dist/components/TextInput/TextInputStylePropType\</tspan>
+<tspan x="10" y="938">s.js</tspan>
+<tspan x="10" y="954"> 57.  2017-04-18 08:50:34 +0000    11299 bytes  dist/components/TextInput/index.js</tspan>
+<tspan x="10" y="970"> 58.  2017-04-18 08:50:34 +0000      557 bytes  dist/components/Touchable/BoundingDimensions.js</tspan>
+<tspan x="10" y="986"> 59.  2017-04-18 08:50:34 +0000      356 bytes  dist/components/Touchable/Position.js</tspan>
+<tspan x="10" y="1002"> 60.  2017-04-18 08:50:34 +0000    13873 bytes  dist/components/Touchable/Touchable.js</tspan>
+<tspan x="10" y="1018"> 61.  2017-04-18 08:50:34 +0000     7160 bytes  dist/components/Touchable/TouchableHighlight.js</tspan>
+<tspan x="10" y="1034"> 62.  2017-04-18 08:50:34 +0000     5263 bytes  dist/components/Touchable/TouchableOpacity.js</tspan>
+<tspan x="10" y="1050"> 63.  2017-04-18 08:50:34 +0000     4821 bytes  dist/components/Touchable/TouchableWithoutFeedba\</tspan>
+<tspan x="10" y="1066">ck.js</tspan>
+<tspan x="10" y="1082"> 64.  2017-04-18 08:50:34 +0000      351 bytes  dist/components/Touchable/ensureComponentIsNativ\</tspan>
+<tspan x="10" y="1098">e.js</tspan>
+<tspan x="10" y="1114"> 65.  2017-04-18 08:50:34 +0000      335 bytes  dist/components/Touchable/ensurePositiveDelayPro\</tspan>
+<tspan x="10" y="1130">ps.js</tspan>
+<tspan x="10" y="1146"> 66.  2017-04-18 08:50:34 +0000     2129 bytes  dist/components/View/ViewPropTypes.js</tspan>
+<tspan x="10" y="1162"> 67.  2017-04-18 08:50:34 +0000     2306 bytes  dist/components/View/ViewStylePropTypes.js</tspan>
+<tspan x="10" y="1178"> 68.  2017-04-18 08:50:34 +0000     5353 bytes  dist/components/View/index.js</tspan>
+<tspan x="10" y="1194"> 69.  2017-04-18 08:50:34 +0000     2305 bytes  dist/core.js</tspan>
+<tspan x="10" y="1210"> 70.  2017-04-18 08:50:34 +0000     6044 bytes  dist/index.js</tspan>
+<tspan x="10" y="1226"> 71.  2017-04-18 08:50:34 +0000     1046 bytes  dist/modules/ImageLoader/index.js</tspan>
+<tspan x="10" y="1242"> 72.  2017-04-18 08:50:34 +0000     1755 bytes  dist/modules/NativeMethodsMixin/index.js</tspan>
+<tspan x="10" y="1258"> 73.  2017-04-18 08:50:34 +0000       19 bytes  dist/modules/NativeModules/index.js</tspan>
+<tspan x="10" y="1274"> 74.  2017-04-18 08:50:34 +0000     1489 bytes  dist/modules/ReactNativePropRegistry/index.js</tspan>
+<tspan x="10" y="1290"> 75.  2017-04-18 08:50:34 +0000     7530 bytes  dist/modules/ScrollResponder/index.js</tspan>
+<tspan x="10" y="1306"> 76.  2017-04-18 08:50:34 +0000     2062 bytes  dist/modules/applyLayout/index.js</tspan>
+<tspan x="10" y="1322"> 77.  2017-04-18 08:50:34 +0000      511 bytes  dist/modules/applyNativeMethods/index.js</tspan>
+<tspan x="10" y="1338"> 78.  2017-04-18 08:50:34 +0000     2545 bytes  dist/modules/createDOMElement/index.js</tspan>
+<tspan x="10" y="1354"> 79.  2017-04-18 08:50:34 +0000     2456 bytes  dist/modules/createDOMProps/index.js</tspan>
+<tspan x="10" y="1370"> 80.  2017-04-18 08:50:34 +0000      392 bytes  dist/modules/dismissKeyboard/index.js</tspan>
+<tspan x="10" y="1386"> 81.  2017-04-18 08:50:34 +0000      130 bytes  dist/modules/findNodeHandle/index.js</tspan>
+<tspan x="10" y="1402"> 82.  2017-04-18 08:50:34 +0000      314 bytes  dist/modules/flattenArray/index.js</tspan>
+<tspan x="10" y="1418"> 83.  2017-04-18 08:50:34 +0000      405 bytes  dist/modules/getAccessibilityRole/index.js</tspan>
+<tspan x="10" y="1434"> 84.  2017-04-18 08:50:34 +0000     2785 bytes  dist/modules/injectResponderEventPlugin.js</tspan>
+<tspan x="10" y="1450"> 85.  2017-04-18 08:50:34 +0000      262 bytes  dist/modules/mapKeyValue/index.js</tspan>
+<tspan x="10" y="1466"> 86.  2017-04-18 08:50:34 +0000     1820 bytes  dist/modules/modality/index.js</tspan>
+<tspan x="10" y="1482"> 87.  2017-04-18 08:50:34 +0000      571 bytes  dist/modules/multiplyStyleLengthValue/index.js</tspan>
+<tspan x="10" y="1498"> 88.  2017-04-18 08:50:34 +0000     2812 bytes  dist/modules/normalizeNativeEvent.js</tspan>
+<tspan x="10" y="1514"> 89.  2017-04-18 08:50:34 +0000      745 bytes  dist/modules/processColor/index.js</tspan>
+<tspan x="10" y="1530"> 90.  2017-04-18 08:50:34 +0000      830 bytes  dist/modules/requestIdleCallback/index.js</tspan>
+<tspan x="10" y="1546"> 91.  2017-04-18 08:50:34 +0000      586 bytes  dist/propTypes/AnimationPropTypes.js</tspan>
+<tspan x="10" y="1562"> 92.  2017-04-18 08:50:34 +0000      506 bytes  dist/propTypes/BaseComponentPropTypes.js</tspan>
+<tspan x="10" y="1578"> 93.  2017-04-18 08:50:34 +0000     1018 bytes  dist/propTypes/BorderPropTypes.js</tspan>
+<tspan x="10" y="1594"> 94.  2017-04-18 08:50:34 +0000     1452 bytes  dist/propTypes/ColorPropType.js</tspan>
+<tspan x="10" y="1610"> 95.  2017-04-18 08:50:34 +0000      269 bytes  dist/propTypes/EdgeInsetsPropType.js</tspan>
+<tspan x="10" y="1626"> 96.  2017-04-18 08:50:34 +0000     1711 bytes  dist/propTypes/LayoutPropTypes.js</tspan>
+<tspan x="10" y="1642"> 97.  2017-04-18 08:50:34 +0000      205 bytes  dist/propTypes/PointPropType.js</tspan>
+<tspan x="10" y="1658"> 98.  2017-04-18 08:50:34 +0000      641 bytes  dist/propTypes/ShadowPropTypes.js</tspan>
+<tspan x="10" y="1674"> 99.  2017-04-18 08:50:34 +0000      474 bytes  dist/propTypes/StyleSheetPropType.js</tspan>
+<tspan x="10" y="1690">100.  2017-04-18 08:50:34 +0000      762 bytes  dist/propTypes/TransformPropTypes.js</tspan>
+<tspan x="10" y="1706">101.  2017-04-18 08:50:34 +0000     2204 bytes  dist/propTypes/createStrictShapeTypeChecker.js</tspan>
+<tspan x="10" y="1722">102.  2017-04-18 08:50:34 +0000   223851 bytes  dist/report.html</tspan>
+<tspan x="10" y="1738">103.  2017-04-18 08:50:34 +0000       90 bytes  dist/tests.webpack.js</tspan>
+<tspan x="10" y="1754">104.  2017-04-18 08:50:34 +0000     4717 bytes  package.json</tspan>
+<tspan x="10" y="1770">105.  2017-04-18 08:50:34 +0000      549 bytes  src/apis/Animated/index.js</tspan>
+<tspan x="10" y="1786">106.  2017-04-18 08:50:34 +0000      796 bytes  src/apis/AppRegistry/ReactNativeApp.js</tspan>
+<tspan x="10" y="1802">107.  2017-04-18 08:50:34 +0000     2942 bytes  src/apis/AppRegistry/index.js</tspan>
+<tspan x="10" y="1818">108.  2017-04-18 08:50:34 +0000      998 bytes  src/apis/AppRegistry/renderApplication.js</tspan>
+<tspan x="10" y="1834">109.  2017-04-18 08:50:34 +0000     1810 bytes  src/apis/AppState/index.js</tspan>
+<tspan x="10" y="1850">110.  2017-04-18 08:50:34 +0000     3952 bytes  src/apis/AsyncStorage/index.js</tspan>
+<tspan x="10" y="1866">111.  2017-04-18 08:50:34 +0000      625 bytes  src/apis/BackAndroid/index.js</tspan>
+<tspan x="10" y="1882">112.  2017-04-18 08:50:34 +0000      470 bytes  src/apis/Clipboard/index.js</tspan>
+<tspan x="10" y="1898">113.  2017-04-18 08:50:34 +0000     1012 bytes  src/apis/Dimensions/index.js</tspan>
+<tspan x="10" y="1914">114.  2017-04-18 08:50:34 +0000      914 bytes  src/apis/I18nManager/index.js</tspan>
+<tspan x="10" y="1930">115.  2017-04-18 08:50:34 +0000      857 bytes  src/apis/InteractionManager/index.js</tspan>
+<tspan x="10" y="1946">116.  2017-04-18 08:50:34 +0000     1233 bytes  src/apis/Linking/index.js</tspan>
+<tspan x="10" y="1962">117.  2017-04-18 08:50:34 +0000     3302 bytes  src/apis/NetInfo/index.js</tspan>
+<tspan x="10" y="1978">118.  2017-04-18 08:50:34 +0000    18149 bytes  src/apis/PanResponder/index.js</tspan>
+<tspan x="10" y="1994">119.  2017-04-18 08:50:34 +0000     1232 bytes  src/apis/PixelRatio/index.js</tspan>
+<tspan x="10" y="2010">120.  2017-04-18 08:50:34 +0000      127 bytes  src/apis/Platform/index.js</tspan>
+<tspan x="10" y="2026">121.  2017-04-18 08:50:34 +0000     4551 bytes  src/apis/StyleSheet/StyleManager.js</tspan>
+<tspan x="10" y="2042">122.  2017-04-18 08:50:34 +0000     4871 bytes  src/apis/StyleSheet/StyleRegistry.js</tspan>
+<tspan x="10" y="2058">123.  2017-04-18 08:50:34 +0000     2698 bytes  src/apis/StyleSheet/StyleSheetValidation.js</tspan>
+<tspan x="10" y="2074">124.  2017-04-18 08:50:34 +0000      228 bytes  src/apis/StyleSheet/createReactDOMStyle.js</tspan>
+<tspan x="10" y="2090">125.  2017-04-18 08:50:34 +0000     4737 bytes  src/apis/StyleSheet/expandStyle.js</tspan>
+<tspan x="10" y="2106">126.  2017-04-18 08:50:34 +0000     1214 bytes  src/apis/StyleSheet/flattenStyle.js</tspan>
+<tspan x="10" y="2122">127.  2017-04-18 08:50:34 +0000      734 bytes  src/apis/StyleSheet/generateCss.js</tspan>
+<tspan x="10" y="2138">128.  2017-04-18 08:50:34 +0000     1466 bytes  src/apis/StyleSheet/hash.js</tspan>
+<tspan x="10" y="2154">129.  2017-04-18 08:50:34 +0000     2465 bytes  src/apis/StyleSheet/i18nStyle.js</tspan>
+<tspan x="10" y="2170">130.  2017-04-18 08:50:34 +0000      728 bytes  src/apis/StyleSheet/index.js</tspan>
+<tspan x="10" y="2186">131.  2017-04-18 08:50:34 +0000     1051 bytes  src/apis/StyleSheet/normalizeValue.js</tspan>
+<tspan x="10" y="2202">132.  2017-04-18 08:50:34 +0000      522 bytes  src/apis/StyleSheet/prefixInlineStyles.js</tspan>
+<tspan x="10" y="2218">133.  2017-04-18 08:50:34 +0000      110 bytes  src/apis/StyleSheet/registry.js</tspan>
+<tspan x="10" y="2234">134.  2017-04-18 08:50:34 +0000      844 bytes  src/apis/StyleSheet/resolveBoxShadow.js</tspan>
+<tspan x="10" y="2250">135.  2017-04-18 08:50:34 +0000      633 bytes  src/apis/StyleSheet/resolveTextShadow.js</tspan>
+<tspan x="10" y="2266">136.  2017-04-18 08:50:34 +0000      857 bytes  src/apis/StyleSheet/resolveTransform.js</tspan>
+<tspan x="10" y="2282">137.  2017-04-18 08:50:34 +0000      932 bytes  src/apis/StyleSheet/staticCss.js</tspan>
+<tspan x="10" y="2298">138.  2017-04-18 08:50:34 +0000     2327 bytes  src/apis/UIManager/index.js</tspan>
+<tspan x="10" y="2314">139.  2017-04-18 08:50:34 +0000      406 bytes  src/apis/Vibration/index.js</tspan>
+<tspan x="10" y="2330">140.  2017-04-18 08:50:34 +0000     2538 bytes  src/components/ActivityIndicator/index.js</tspan>
+<tspan x="10" y="2346">141.  2017-04-18 08:50:34 +0000     1486 bytes  src/components/Button/index.js</tspan>
+<tspan x="10" y="2362">142.  2017-04-18 08:50:34 +0000      181 bytes  src/components/Image/ImageResizeMode.js</tspan>
+<tspan x="10" y="2378">143.  2017-04-18 08:50:34 +0000      960 bytes  src/components/Image/ImageStylePropTypes.js</tspan>
+<tspan x="10" y="2394">144.  2017-04-18 08:50:34 +0000     6968 bytes  src/components/Image/index.js</tspan>
+<tspan x="10" y="2410">145.  2017-04-18 08:50:34 +0000    14020 bytes  src/components/ListView/ListViewDataSource.js</tspan>
+<tspan x="10" y="2426">146.  2017-04-18 08:50:34 +0000      803 bytes  src/components/ListView/ListViewPropTypes.js</tspan>
+<tspan x="10" y="2442">147.  2017-04-18 08:50:34 +0000    14387 bytes  src/components/ListView/index.js</tspan>
+<tspan x="10" y="2458">148.  2017-04-18 08:50:34 +0000     2225 bytes  src/components/ProgressBar/index.js</tspan>
+<tspan x="10" y="2474">149.  2017-04-18 08:50:34 +0000     3798 bytes  src/components/ScrollView/ScrollViewBase.js</tspan>
+<tspan x="10" y="2490">150.  2017-04-18 08:50:34 +0000     7651 bytes  src/components/ScrollView/index.js</tspan>
+<tspan x="10" y="2506">151.  2017-04-18 08:50:34 +0000     1165 bytes  src/components/StaticContainer/index.js</tspan>
+<tspan x="10" y="2522">152.  2017-04-18 08:50:34 +0000     1048 bytes  src/components/StaticRenderer/index.js</tspan>
+<tspan x="10" y="2538">153.  2017-04-18 08:50:34 +0000     4890 bytes  src/components/Switch/index.js</tspan>
+<tspan x="10" y="2554">154.  2017-04-18 08:50:34 +0000     1557 bytes  src/components/Text/TextStylePropTypes.js</tspan>
+<tspan x="10" y="2570">155.  2017-04-18 08:50:34 +0000     2481 bytes  src/components/Text/index.js</tspan>
+<tspan x="10" y="2586">156.  2017-04-18 08:50:34 +0000     1552 bytes  src/components/TextInput/TextInputState.js</tspan>
+<tspan x="10" y="2602">157.  2017-04-18 08:50:34 +0000      331 bytes  src/components/TextInput/TextInputStylePropTypes\</tspan>
+<tspan x="10" y="2618">.js</tspan>
+<tspan x="10" y="2634">158.  2017-04-18 08:50:34 +0000     7670 bytes  src/components/TextInput/index.js</tspan>
+<tspan x="10" y="2650">159.  2017-04-18 08:50:34 +0000     1045 bytes  src/components/Touchable/BoundingDimensions.js</tspan>
+<tspan x="10" y="2666">160.  2017-04-18 08:50:34 +0000      783 bytes  src/components/Touchable/Position.js</tspan>
+<tspan x="10" y="2682">161.  2017-04-18 08:50:34 +0000    29185 bytes  src/components/Touchable/Touchable.js</tspan>
+<tspan x="10" y="2698">162.  2017-04-18 08:50:34 +0000     8714 bytes  src/components/Touchable/TouchableHighlight.js</tspan>
+<tspan x="10" y="2714">163.  2017-04-18 08:50:34 +0000     5960 bytes  src/components/Touchable/TouchableOpacity.js</tspan>
+<tspan x="10" y="2730">164.  2017-04-18 08:50:34 +0000     6753 bytes  src/components/Touchable/TouchableWithoutFeedbac\</tspan>
+<tspan x="10" y="2746">k.js</tspan>
+<tspan x="10" y="2762">165.  2017-04-18 08:50:34 +0000      731 bytes  src/components/Touchable/ensureComponentIsNative\</tspan>
+<tspan x="10" y="2778">.js</tspan>
+<tspan x="10" y="2794">166.  2017-04-18 08:50:34 +0000      719 bytes  src/components/Touchable/ensurePositiveDelayProp\</tspan>
+<tspan x="10" y="2810">s.js</tspan>
+<tspan x="10" y="2826">167.  2017-04-18 08:50:34 +0000     1404 bytes  src/components/View/ViewPropTypes.js</tspan>
+<tspan x="10" y="2842">168.  2017-04-18 08:50:34 +0000     1668 bytes  src/components/View/ViewStylePropTypes.js</tspan>
+<tspan x="10" y="2858">169.  2017-04-18 08:50:34 +0000     3016 bytes  src/components/View/index.js</tspan>
+<tspan x="10" y="2874">170.  2017-04-18 08:50:34 +0000     1180 bytes  src/core.js</tspan>
+<tspan x="10" y="2890">171.  2017-04-18 08:50:34 +0000     2916 bytes  src/index.js</tspan>
+<tspan x="10" y="2906">172.  2017-04-18 08:50:34 +0000     1197 bytes  src/modules/ImageLoader/index.js</tspan>
+<tspan x="10" y="2922">173.  2017-04-18 08:50:34 +0000     2343 bytes  src/modules/NativeMethodsMixin/index.js</tspan>
+<tspan x="10" y="2938">174.  2017-04-18 08:50:34 +0000       43 bytes  src/modules/NativeModules/index.js</tspan>
+<tspan x="10" y="2954">175.  2017-04-18 08:50:34 +0000     1253 bytes  src/modules/ReactNativePropRegistry/index.js</tspan>
+<tspan x="10" y="2970">176.  2017-04-18 08:50:34 +0000    21687 bytes  src/modules/ScrollResponder/index.js</tspan>
+<tspan x="10" y="2986">177.  2017-04-18 08:50:34 +0000     2229 bytes  src/modules/applyLayout/index.js</tspan>
+<tspan x="10" y="3002">178.  2017-04-18 08:50:34 +0000      425 bytes  src/modules/applyNativeMethods/index.js</tspan>
+<tspan x="10" y="3018">179.  2017-04-18 08:50:34 +0000     2312 bytes  src/modules/createDOMElement/index.js</tspan>
+<tspan x="10" y="3034">180.  2017-04-18 08:50:34 +0000     1861 bytes  src/modules/createDOMProps/index.js</tspan>
+<tspan x="10" y="3050">181.  2017-04-18 08:50:34 +0000      215 bytes  src/modules/dismissKeyboard/index.js</tspan>
+<tspan x="10" y="3066">182.  2017-04-18 08:50:34 +0000       69 bytes  src/modules/findNodeHandle/index.js</tspan>
+<tspan x="10" y="3082">183.  2017-04-18 08:50:34 +0000      403 bytes  src/modules/flattenArray/index.js</tspan>
+<tspan x="10" y="3098">184.  2017-04-18 08:50:34 +0000      342 bytes  src/modules/getAccessibilityRole/index.js</tspan>
+<tspan x="10" y="3114">185.  2017-04-18 08:50:34 +0000     2462 bytes  src/modules/injectResponderEventPlugin.js</tspan>
+<tspan x="10" y="3130">186.  2017-04-18 08:50:34 +0000      304 bytes  src/modules/mapKeyValue/index.js</tspan>
+<tspan x="10" y="3146">187.  2017-04-18 08:50:34 +0000     3078 bytes  src/modules/modality/index.js</tspan>
+<tspan x="10" y="3162">188.  2017-04-18 08:50:34 +0000      531 bytes  src/modules/multiplyStyleLengthValue/index.js</tspan>
+<tspan x="10" y="3178">189.  2017-04-18 08:50:34 +0000     3567 bytes  src/modules/normalizeNativeEvent.js</tspan>
+<tspan x="10" y="3194">190.  2017-04-18 08:50:34 +0000      613 bytes  src/modules/processColor/index.js</tspan>
+<tspan x="10" y="3210">191.  2017-04-18 08:50:34 +0000      755 bytes  src/modules/requestIdleCallback/index.js</tspan>
+<tspan x="10" y="3226">192.  2017-04-18 08:50:34 +0000      555 bytes  src/propTypes/AnimationPropTypes.js</tspan>
+<tspan x="10" y="3242">193.  2017-04-18 08:50:34 +0000      399 bytes  src/propTypes/BaseComponentPropTypes.js</tspan>
+<tspan x="10" y="3258">194.  2017-04-18 08:50:34 +0000      865 bytes  src/propTypes/BorderPropTypes.js</tspan>
+<tspan x="10" y="3274">195.  2017-04-18 08:50:34 +0000     2290 bytes  src/propTypes/ColorPropType.js</tspan>
+<tspan x="10" y="3290">196.  2017-04-18 08:50:34 +0000      656 bytes  src/propTypes/EdgeInsetsPropType.js</tspan>
+<tspan x="10" y="3306">197.  2017-04-18 08:50:34 +0000     1868 bytes  src/propTypes/LayoutPropTypes.js</tspan>
+<tspan x="10" y="3322">198.  2017-04-18 08:50:34 +0000      581 bytes  src/propTypes/PointPropType.js</tspan>
+<tspan x="10" y="3338">199.  2017-04-18 08:50:34 +0000      456 bytes  src/propTypes/ShadowPropTypes.js</tspan>
+<tspan x="10" y="3354">200.  2017-04-18 08:50:34 +0000      696 bytes  src/propTypes/StyleSheetPropType.js</tspan>
+<tspan x="10" y="3370">201.  2017-04-18 08:50:34 +0000      906 bytes  src/propTypes/TransformPropTypes.js</tspan>
+<tspan x="10" y="3386">202.  2017-04-18 08:50:34 +0000     2551 bytes  src/propTypes/createStrictShapeTypeChecker.js</tspan>
+<tspan x="10" y="3402">203.  2017-04-18 08:50:34 +0000      298 bytes  src/tests.webpack.js</tspan>
+</text>
+</svg>
